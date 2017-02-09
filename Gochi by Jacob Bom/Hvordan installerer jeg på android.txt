@@ -1,0 +1,2 @@
+Overfør filen "3 Android.apk" til din android telefon.
+Derefter skal du finde filen vha. en file manager (f.eks. EX File manager fra app storen). Når du så åbner filen spørger den om hvorvidt du vil installere appen.
